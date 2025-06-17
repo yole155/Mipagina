@@ -1,0 +1,35 @@
+.img{ /*Diseño de la imagen*/
+ width: 300px;
+height:300px;
+padding: 10px;
+margin: 10px;
+border: 2px solid black;
+display: block;
+margin: 0px auto;
+/*float: right;
+float: left; left; | right | none */
+}.hipervinculo{/*Diseño del hipervinculo*/
+     float: left;
+}
+.video{ /*Diseño del video*/
+    width:500px;
+	height:500px;
+	float: left;
+}
+p.im{/*Diseño del parrafo imagen*/
+    color: blue;
+	font-family: cursive;
+	font-size: x-large;
+}
+p.hi{/*Diseño del parrafo hipervinculo*/
+     color: green;
+	 font-family: cursive;
+	 font-size: x-large;
+}
+p.vi{/*Diseño del parrafo video*/
+    color: orange;
+	font-family: cursive;
+	font-size: x-large;
+}
+	 
+	 
